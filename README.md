@@ -1,22 +1,16 @@
 ### Hi there 👋
 
 ---
-
--
--
-- ***
-
--
--
-- ***
-
--
--
-- ***
++
++
+---
++
++
+---
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>
 
-[![Top Langs](github-readme-stats-sooty-rho-44.vercel.app/api/top-langs/?username=tidyp1030&title_color=42a5f5&text_color=fff&bg_color=1f1f1f&border_radius=0&langs_count=10&card_width=350&layout=compact&hide=powershell,Roff,Batchfile)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-tidyp1030.vercel.app/api/top-langs/?username=tidyp1030&title_color=42a5f5&text_color=fff&bg_color=1f1f1f&border_radius=0&langs_count=10&card_width=350&layout=compact&hide=powershell,Roff,Batchfile)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![Top Langs](https://github-readme-stats-git-master-tidyp1030.vercel.app/api/top-langs/?username=tidyp1030&title_color=42a5f5&text_color=fff&bg_color=1f1f1f&border_radius=0&langs_count=10&card_width=350&layout=compact&hide=powershell,Roff,Batchfile)](https://github.com/anuraghazra/github-readme-stats) -->
 
