@@ -1,6 +1,6 @@
 # 👋 Hi there
 
-## Education
+<!-- ## Education
 
 -
 -
@@ -28,7 +28,7 @@
 
 <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat&logo=Amazon S3&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=Amazon EC2&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon DynamoDB-4053D6?style=flat&logo=Amazon DynamoDB&logoColor=white"/>
 
----
+--- -->
 
 [![Top Langs](https://github-readme-stats-dusky-chi.vercel.app/api/top-langs/?username=tidyp&title_color=42a5f5&text_color=fff&bg_color=0d1117&border_radius=0.375rem&border_color=30363d&langs_count=10&card_width=350&layout=compact&hide=powershell,Roff,Batchfile,pug,ejs)](https://github.com/anuraghazra/github-readme-stats)
 
